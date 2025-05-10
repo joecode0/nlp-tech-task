@@ -38,7 +38,7 @@ python main.py --run visualise
 ## Project structure
 
 ```text
-filamentai_assessment_jm/
+main project folder
 │
 ├── data/                # Raw input data
 ├── output/              # Processed outputs and visualisations
